@@ -1,16 +1,26 @@
 # Microsoft Academic Paper Recommender User Study
 
-The raw data and analysis code for the Microsoft Academic paper recommender system user study conducted in 2018. The results of this study were presented as part of the publication titled, "A Scalable Hybrid Research Paper Recommender System for Microsoft Academic", presented at The Web Conference, San Francisco - USA, May 2019.
+The raw data and analysis code for the Microsoft Academic paper recommender system user study conducted in 2018. The results of this study were presented as part of the publication titled, "[A Scalable Hybrid Research Paper Recommender System for Microsoft Academic](https://dl.acm.org/citation.cfm?doid=3308558.3313700)", presented at The Web Conference, San Francisco - USA, May 2019.
 
 To cite this dataset in academic works please use the following paper citation:
 
 *bibtex*
 ```
-@inproceedings{kanakia2019-scalable,
-	title="A Scalable Hybrid Research Paper Recommender System for Microsoft Academic",
-	author="Anshul {Kanakia} and Zhihong {Shen} and Darrin {Eide} and Kuansan {Wang}",
-	booktitle="The Web Conference (WWW)",
-	year="2019"
+@inproceedings{Kanakia2019scalable,
+ author = {Kanakia, Anshul and Shen, Zhihong and Eide, Darrin and Wang, Kuansan},
+ title = {A Scalable Hybrid Research Paper Recommender System for Microsoft Academic},
+ booktitle = {The World Wide Web Conference},
+ series = {WWW '19},
+ year = {2019},
+ isbn = {978-1-4503-6674-8},
+ location = {San Francisco, CA, USA},
+ pages = {2893--2899},
+ numpages = {7},
+ url = {http://doi.acm.org/10.1145/3308558.3313700},
+ doi = {10.1145/3308558.3313700},
+ acmid = {3313700},
+ publisher = {ACM},
+ address = {New York, NY, USA},
 }
 ```
 
